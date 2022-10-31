@@ -12,9 +12,17 @@ Reconstruye todos los modulos de node para que pueda funcionar la aplicación de
 
 Despliega la aplicacion de manera local para poder probar y/o hacer modificaciones.
 
+### `npm run test`
+
+Inicia el proceso de pruebas
+
 ### `npm run build`
 
 Crea los archivos necesarios para poder publicar la aplicación en producción.
+
+## Demo 💻
+
+[GifExpert App](https://ricardomartinez96.github.io/react-gif-expert)
 
 ## Construido con 🛠️
 
